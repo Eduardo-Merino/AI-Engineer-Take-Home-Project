@@ -1,0 +1,94 @@
+Company Overview:
+HelpBot supports ACME Shop, an online retailer of consumer accessories and apparel.
+Our mission is to deliver fast shipping, transparent policies, and responsive support.
+
+Shipping Policy:
+Standard shipping typically takes 3–5 business days after the order is processed.
+Expedited shipping (if selected) takes 1–2 business days. Processing time is usually under 24 hours on business days.
+We currently ship domestically only (no international addresses or PO Boxes).
+You will receive a tracking link via email once the carrier scans the package.
+If tracking shows "Delivered" but you did not receive the package, wait 24 hours and then contact support.
+
+Returns & Exchanges:
+Customers may return most items within 30 days of delivery. Items must be unused, unwashed, and in original packaging with all tags attached.
+Non‑returnable items: gift cards, final sale/clearance items, and perishable goods.
+To initiate a return, contact support with your order ID. You will receive a prepaid label.
+Refunds are issued to the original payment method within 5 business days after the warehouse inspection.
+Exchanges: Specify the new size/color; if unavailable, a refund is issued instead.
+Late returns (beyond 30 days) may be rejected or refunded as store credit at our discretion.
+
+Warranty:
+Electronics and wearable devices include a 1‑year limited warranty covering manufacturing defects.
+Warranty does not cover accidental damage, misuse, or normal wear and tear.
+To file a warranty claim, provide photos, a description of the defect, and proof of purchase.
+
+Payments:
+We accept major credit cards (Visa, MasterCard, American Express), PayPal, and ACME gift cards.
+At this time we do not support cash on delivery, bank transfers, “buy now pay later” services, or cryptocurrency.
+Only one promotional code can be applied per order. Gift cards may be combined with promo codes.
+Charges are captured at the time of order placement.
+
+Sales Tax:
+Applicable sales tax is calculated based on the shipping address and displayed at checkout.
+Tax‑exempt organizations should contact support before placing an order.
+
+Order Issues:
+If your tracking status has not updated for 5 consecutive business days, contact support for an investigation.
+Damaged items must be reported within 48 hours of delivery with photos of packaging and product.
+Missing items: verify the packing slip; some orders ship in multiple boxes. Contact support if not received within 2 days of other items.
+
+Order Modifications & Cancellations:
+We cannot guarantee modifications once an order is submitted because it enters automated processing quickly.
+If the package has not yet shipped, we will attempt cancellation. Otherwise you may process a return upon receipt.
+
+Loyalty Program:
+Customers automatically earn 1 point per $1 spent (excluding tax and shipping).
+Every 100 points = $5 discount redeemable at checkout.
+Points expire after 12 months of inactivity. Points are revoked if an order is refunded.
+
+Discounts & Promotions:
+Promotional codes must be entered at checkout and cannot be applied retroactively.
+Unless stated otherwise, promotions do not stack with other discounts.
+If a discounted item is returned, the refund reflects the amount actually paid.
+
+Account & Privacy:
+Creating an account allows order history visibility, faster checkout, and loyalty tracking.
+We store only necessary personal data to fulfill orders and send transactional emails.
+We do not sell customer data. See the Privacy Notice for full details.
+
+Data Deletion:
+To request deletion of your account data, email privacy@acmeshop.example. Processing may take up to 30 days.
+
+Email Notifications:
+Transactional emails (order confirmations, shipping updates) are always sent.
+Marketing emails require explicit opt‑in and can be unsubscribed via the footer link.
+
+Inventory & Backorders:
+If an item becomes unavailable after purchase, we will notify you and issue a refund automatically.
+We do not accept backorders unless explicitly labeled on the product page.
+
+Sizing & Fit:
+Apparel size charts are available on each product page. If unsure between sizes, choose the larger fit.
+Items tried on briefly remain eligible for return if tags are intact.
+
+Customer Support:
+Normal support hours: Monday–Friday 9:00–17:00 local time (excluding holidays).
+Average first response time is under 24 business hours.
+Contact channels: support portal form or email support@acmeshop.example.
+
+Escalations:
+If an issue remains unresolved after initial contact, request escalation to a senior support specialist.
+Provide your ticket number for faster handling.
+
+Security:
+For your protection, support may request order ID, billing ZIP/postal code, or last four digits of the card used.
+We will never ask for full credit card numbers or account passwords.
+
+Common Questions:
+Q: “How long is standard shipping?” → 3–5 business days after processing.
+Q: “Can I return worn items?” → Only if unworn, unwashed, with original tags within 30 days.
+Q: “Do you ship internationally?” → Currently no.
+Q: “What payment methods are accepted?” → Major cards, PayPal, gift cards.
+Q: “When will I get my refund?” → Within 5 business days after warehouse approval.
+
+End of Knowledge Base.
