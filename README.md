@@ -10,7 +10,7 @@ It answers FAQs (shipping, returns, payments) using Retrieval‑Augmented Genera
 The goal is to demonstrate: system prompt design, local retrieval, and Anthropic tool calls.
 
 ## 2. Project Structure
-´´´text
+```text
 ├── app/
 │ ├── main.py # FastAPI app (chat endpoint)
 │ ├── logging_config.py # Logging configuration
@@ -25,7 +25,7 @@ The goal is to demonstrate: system prompt design, local retrieval, and Anthropic
 ├── requirements.txt
 ├── README.md
 └── .env # (Not committed) contains ANTHROPIC_API_KEY
-´´´
+```
 
 ## 3. Setup
 
